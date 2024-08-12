@@ -18,7 +18,7 @@ This project is intended to create a forum to demonstrate my skills in PHP mysql
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://foro-chat.lovestoblog.com/)
 
 ## Getting Started
 
